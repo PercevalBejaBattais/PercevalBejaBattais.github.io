@@ -15,7 +15,11 @@ author:
 # Photo de profil
 profile:
   image: prof_pic.jpg        # dans assets/img/
-
+  
+nav_bar_items:
+  about: true
+  publications: true
+  
 header_pages:
   - _pages/about.md
   - _pages/publications.md
