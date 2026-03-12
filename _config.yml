@@ -16,6 +16,10 @@ author:
 profile:
   image: prof_pic.jpg        # dans assets/img/
 
+header_pages:
+  - _pages/about.md
+  - _pages/publications.md
+
 # Activer/désactiver des sections
 news: true
 selected_papers: true
