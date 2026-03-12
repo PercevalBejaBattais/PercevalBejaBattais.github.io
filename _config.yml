@@ -19,6 +19,9 @@ profile:
 nav_bar_items:
   about: true
   publications: true
+
+third_party_libraries:
+  download: false
   
 header_pages:
   - _pages/about.md
