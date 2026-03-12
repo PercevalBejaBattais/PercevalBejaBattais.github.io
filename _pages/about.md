@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a 3rd year PhD Student under supervision of [Nicolas Vayatis](https://nvayatis.perso.math.cnrs.fr/) at [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/fr).
-I work in partnership (CIFRE PhD) with [Framatome](https://www.framatome.com/fr/), a worldwide leader of civil nuclear industry. 
-My research focuses on the use of new Machine Learning algorithms and frameworks in a context of challenging industrial setups. In particular, I implement ML algorithms for Optimal Control problems, in order to solve them faster and/or more precisely.
+I'm a 3rd year PhD Student at [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/fr) (ENS Paris-Saclay) under supervision of [Nicolas Vayatis](https://nvayatis.perso.math.cnrs.fr/).
+My PhD is funded through a CIFRE fellowship with [Framatome](https://www.framatome.com/fr/), a world leader in civil nuclear industry. 
+My research sits at the intersection of machine learning and optimal control, with a focus on developing algorithms that are both faster and more accurate in demanding industrial settings. I am particularly interested in how modern ML frameworks can address the computational challenges that arise in real-world control problems.
 My publications are listed [here]() on my [Google Scholar](https://scholar.google.com/citations?user=Qt7AfjsAAAAJ&hl=fr).
