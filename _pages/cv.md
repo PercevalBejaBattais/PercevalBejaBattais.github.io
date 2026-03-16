@@ -36,7 +36,7 @@ Research on Machine Learning topics.
 Mock Orals for Undergraduate Students.
 
 **R&D Intern** — Framatome, Paris La Défense <span style="float:right; color:#888;">Apr 2022 – Aug 2022</span><br>
-Implementation (in Matlab) from scratch of an optimization solver inside a dynamical system controlled by MPC algorithms.
+Implementation from scratch of an optimization solver inside a dynamical system controlled by MPC algorithms.
 
 **Data Analyst Intern** — Editec UK Ltd., London (UK) <span style="float:right; color:#888;">Jun 2021 – Aug 2021</span><br>
 Modeling & Forecasting of Lotto Sales. Analysis of players' behaviour in order to create targeted new games.
