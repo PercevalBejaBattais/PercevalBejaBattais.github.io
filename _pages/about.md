@@ -30,7 +30,7 @@ A theoretical review of AdaBoost -- *See (Paper)[]*
 
 <div style="width: 20%; flex-shrink: 0; text-align: center;">
   <img src="/assets/img/prof_pic.jpg" style="width: 100%; border-radius: 50%;">
-  <p style="font-size: 0.85rem; color: #666;">Office 3S28<br>ENS Paris-Saclay<br>Gif-sur-Yvette<br>perceval.beja-battais [at] ens-paris-saclay [dot] fr</p>
+  <p style="font-size: 0.85rem; color: #666;">Office 3S28<br>ENS Paris-Saclay<br>Gif-sur-Yvette<br>[perceval.beja-battais [at] ens-paris-saclay [dot] fr](mailto:perceval.beja-battais@ens-paris-saclay.fr)</p>
 </div>
 
 </div>
