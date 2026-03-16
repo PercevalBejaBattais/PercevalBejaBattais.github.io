@@ -19,12 +19,16 @@ All my publications are listed [here](https://percevalbejabattais.github.io/publ
 
 **Recent Works**
 
+[comment]: <>  ![illustration](assets/img/ML_Surrogate.pdf)
 Towards Safe Industrial Control using Machine Learning Surrogates -- *Ongoing work, to be published soon !*
 
+![illustration](assets/img/accelDAE.pdf)
 Leveraging Machine Learning to accelerate Differential Algebraic Equations simulation algorithms -- *See [Paper](https://arxiv.org/pdf/2511.16148)*
 
+![illustration](assets/img/Lipo+fig.pdf)
 Designing practical improvements on a global optimization algorithm -- *See [Paper](https://arxiv.org/pdf/2406.19723)*
 
+[comment]: <> ![illustration](assets/img/Adaboost.pdf)
 A theoretical review of AdaBoost -- *See [Paper](https://arxiv.org/pdf/2310.18323)*
 
 </div>
