@@ -43,7 +43,7 @@ Leveraging Machine Learning to accelerate Differential Algebraic Equations simul
 
 <div class="recent-work">
 Designing practical improvements on a global optimization algorithm -- <em>See <a href="https://arxiv.org/pdf/2406.19723">Paper</a></em><br>
-  <em>This paper develops two major improvements on the global optimization LIPO+ from <a href="https://proceedings.mlr.press/v70/malherbe17a/malherbe17a.pdf">Malherbe & Vayatis, 2017</a>: an empirical stopping criterion and a decaying exploration rate. </em>
+  <em>This paper develops two major improvements on the global optimization LIPO from <a href="https://proceedings.mlr.press/v70/malherbe17a/malherbe17a.pdf">Malherbe & Vayatis, 2017</a>: an empirical stopping criterion and a decaying exploration rate. </em>
 <img src="/assets/img/Lipo+fig.jpg" alt="illustration" style="width: 90%; border-radius: 4px; margin-top: 0.5rem; display: block; margin-left: auto; margin-right: auto;">
 </div>
 
