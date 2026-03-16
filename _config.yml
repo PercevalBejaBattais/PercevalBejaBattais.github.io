@@ -63,6 +63,7 @@ bib_search: true
 nav_bar_items:
   about:
     title: About
+    profile: true
     permalink: /
     nav: true
   publications:
