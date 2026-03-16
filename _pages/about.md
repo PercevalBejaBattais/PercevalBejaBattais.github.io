@@ -8,7 +8,7 @@ subtitle: PhD Student in Applied Mathematics
 
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
   <!-- Colonne de gauche scrollable -->
-  <div style="flex: 1; overflow-y: auto; padding-right: 1rem;" markdown="1">
+  <div style="flex: 1; overflow-y: auto; padding-right: 1rem; margin-right: 20%;" markdown="1">
 
 ## About me
 
