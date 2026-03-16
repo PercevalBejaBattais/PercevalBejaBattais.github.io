@@ -31,15 +31,16 @@ Designing practical improvements on a global optimization algorithm -- *See [Pap
 [comment]: <> ![illustration](assets/img/Adaboost.pdf)
 A theoretical review of AdaBoost -- *See [Paper](https://arxiv.org/pdf/2310.18323)*
 
-<div style="text-align: center;" markdown="1">
-  
-[<-](https://gas-abel.fr) 🍝 Webring des délices 🍜 [->](https://gaetanserre.fr)
-
 </div>
 
 <div style="width: 20%; flex-shrink: 0; text-align: center;" markdown="1">
   <img src="/assets/img/prof_pic.jpg" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 50%;">
   <p style="font-size: 0.85rem; color: #666;">Office 3S28<br>ENS Paris-Saclay<br>Gif-sur-Yvette<br>[perceval.beja-battais.at.ens-paris-saclay.dot.fr](mailto:perceval.beja-battais@ens-paris-saclay.fr)</p>
 </div>
+
  
+
+<div style="text-align: center;" markdown="1">
+  
+[<-](https://gas-abel.fr) 🍝 Webring des délices 🍜 [->](https://gaetanserre.fr)
 
