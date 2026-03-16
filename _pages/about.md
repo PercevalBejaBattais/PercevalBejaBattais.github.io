@@ -21,15 +21,15 @@ All my publications are listed [here](https://percevalbejabattais.github.io/publ
 
 Towards Safe Industrial Control using Machine Learning Surrogates -- *Ongoing work, to be published soon !*
 
-Leveraging Machine Learning to accelerate Differential Algebraic Equations simulation algorithms -- *See (Paper)[]*
+Leveraging Machine Learning to accelerate Differential Algebraic Equations simulation algorithms -- *See (Paper)[https://arxiv.org/pdf/2511.16148]*
 
-Designing practical improvements on a global optimization algorithm -- *See (Paper)[]*
+Designing practical improvements on a global optimization algorithm -- *See (Paper)[https://arxiv.org/pdf/2406.19723]*
 
-A theoretical review of AdaBoost -- *See (Paper)[]*
+A theoretical review of AdaBoost -- *See (Paper)[https://arxiv.org/pdf/2310.18323]*
 
 </div>
 
-<div style="width: 20%; flex-shrink: 0; text-align: center; "markdown="1">
+<div style="width: 20%; flex-shrink: 0; text-align: center;" markdown="1">
   <img src="/assets/img/prof_pic.jpg" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 50%;">
   <p style="font-size: 0.85rem; color: #666;">Office 3S28<br>ENS Paris-Saclay<br>Gif-sur-Yvette<br>[perceval.beja-battais [at] ens-paris-saclay [dot] fr](mailto:perceval.beja-battais@ens-paris-saclay.fr)</p>
 </div>
