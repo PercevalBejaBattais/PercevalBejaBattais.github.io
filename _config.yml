@@ -67,7 +67,7 @@ nav_bar_items:
     nav: true
   publications:
     title: Publications
-    permalink: /publications/
+    permalink: /
     nav: true
 
 # Dimensions
