@@ -22,10 +22,10 @@ All my publications are listed [here](https://percevalbejabattais.github.io/publ
 [comment]: <>  ![illustration](assets/img/ML_Surrogate.pdf)
 Towards Safe Industrial Control using Machine Learning Surrogates -- *Ongoing work, to be published soon !*
 
-<img src="/assets/img/accelDAE.pdf" alt="illustration" style="width: 100px; border-radius: 4px;">
+<img src="/assets/img/accelDAE.jpg" alt="illustration" style="width: 100px; border-radius: 4px;">
 Leveraging Machine Learning to accelerate Differential Algebraic Equations simulation algorithms -- *See [Paper](https://arxiv.org/pdf/2511.16148)*
 
-<img src="/assets/img/Lipo+fig.pdf" alt="illustration" style="width: 100px; border-radius: 4px;">
+<img src="/assets/img/Lipo+fig.jpg" alt="illustration" style="width: 100px; border-radius: 4px;">
 Designing practical improvements on a global optimization algorithm -- *See [Paper](https://arxiv.org/pdf/2406.19723)*
 
 [comment]: <> ![illustration](assets/img/Adaboost.pdf)
@@ -35,7 +35,10 @@ A theoretical review of AdaBoost -- *See [Paper](https://arxiv.org/pdf/2310.1832
 
 <div style="width: 20%; flex-shrink: 0; text-align: center;" markdown="1">
   <img src="/assets/img/prof_pic.jpg" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 50%;">
-  <p style="font-size: 0.85rem; color: #666;">Office 3S28<br>ENS Paris-Saclay<br>Gif-sur-Yvette<br>[perceval.beja-battais.at.ens-paris-saclay.dot.fr](mailto:perceval.beja-battais@ens-paris-saclay.fr)</p>
+  <p style="font-size: 0.85rem; color: #666;">
+    Office 3S28<br>ENS Paris-Saclay<br>Gif-sur-Yvette<br>
+    <a href="mailto:perceval.beja-battais@ens-paris-saclay.fr">perceval.beja-battais [at] ens-paris-saclay [dot] fr</a>
+  </p>
 </div>
 
  
