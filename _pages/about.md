@@ -26,12 +26,12 @@ Towards Safe Industrial Control using Machine Learning Surrogates -- <em>Ongoing
 
 <div style="margin-bottom: 1.5rem;">
 Leveraging Machine Learning to accelerate Differential Algebraic Equations simulation algorithms -- <em>See <a href="https://arxiv.org/pdf/2511.16148">Paper</a></em><br>
-<img src="/assets/img/accelDAE.jpg" alt="illustration" style="width: 50%; border-radius: 4px; margin-top: 0.5rem;">
+<img src="/assets/img/accelDAE.jpg" alt="illustration" style="width: 90%; border-radius: 4px; margin-top: 0.5rem; display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 <div style="margin-bottom: 1.5rem;">
 Designing practical improvements on a global optimization algorithm -- <em>See <a href="https://arxiv.org/pdf/2406.19723">Paper</a></em><br>
-<img src="/assets/img/Lipo+fig.jpg" alt="illustration" style="width: 50%; border-radius: 4px; margin-top: 0.5rem;">
+<img src="/assets/img/Lipo+fig.jpg" alt="illustration" style="width: 90%; border-radius: 4px; margin-top: 0.5rem; display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 <div style="margin-bottom: 1.5rem;">
