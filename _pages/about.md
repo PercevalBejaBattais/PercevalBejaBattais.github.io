@@ -21,6 +21,14 @@ All my publications are listed [here](https://percevalbejabattais.github.io/publ
 **Recent Works**
 
 <div style="margin-bottom: 1.5rem;">
+Research Internship Supervision -- *Efficient Sampling of Trajectories for Online Finetuning of ML Surrogate Simulation Scheme* <em> (Starting May 2026) </em>
+</div>
+
+<div style="margin-bottom: 1.5rem;">
+Research Internship Supervision -- *Uncertainty Quantification & Propagation for DAE Simulation Schemes* <em> (Starting Mar 2026) </em>
+</div>
+
+<div style="margin-bottom: 1.5rem;">
 Towards Safe Industrial Control using Machine Learning Surrogates -- <em>Ongoing work, to be published soon!</em>
 </div>
 
