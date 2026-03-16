@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /
+title: Teaching
+permalink: /teaching/
 subtitle: PhD Student in Applied Mathematics
 ---
 
