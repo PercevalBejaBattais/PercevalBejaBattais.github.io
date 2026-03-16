@@ -1,7 +1,7 @@
 ---
 layout: page
-title: publications
-permalink: /publications/
+title: Publications
+permalink: /Publications/
 nav: true
 nav_order: 2
 ---
