@@ -7,7 +7,7 @@ subtitle: PhD Student in Applied Mathematics
 
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
 
-<div style="flex: 1;">
+<div style="flex: 1;" markdown="1">
 
 **About me**
 
