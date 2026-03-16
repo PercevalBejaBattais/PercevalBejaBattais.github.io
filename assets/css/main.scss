@@ -54,7 +54,7 @@ body::before {
   inset: 0;
 
   background-image: url("/assets/img/lorenz_background_4k.png");
-  background-size: cover;
+  background-size: 80% auto;
   background-position: center;
 
   filter: blur(10px) brightness(1);
