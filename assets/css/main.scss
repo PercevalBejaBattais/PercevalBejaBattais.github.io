@@ -62,3 +62,8 @@ body::before {
 
   z-index: -1;
 }
+
+
+button#theme-toggle {
+  display: none !important;
+}
