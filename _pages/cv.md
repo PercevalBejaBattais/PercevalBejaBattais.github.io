@@ -8,23 +8,10 @@ nav_order: 4
 
 <div markdown="1">
 
-## Work Experience
-
-**Pre-Doctoral Researcher** — Centre Borelli, ENS Paris-Saclay <span style="float:right; color:#888;">Apr 2023 – Mar 2024</span><br>
-Research on Machine Learning topics.
-
-**Teaching Assistant** — Lycée Janson de Sailly, Lycée Condorcet, Paris <span style="float:right; color:#888;">2021 – 2023</span><br>
-Oral interrogator for CPGE.
-
-**R&D Intern** — Framatome, Paris La Défense <span style="float:right; color:#888;">Apr 2022 – Aug 2022</span><br>
-Implementation (in Matlab) from scratch of an optimization solver inside a dynamical system controlled by MPC methods.
-
-**Data Analyst Intern** — Editec UK Ltd., London (UK) <span style="float:right; color:#888;">Jun 2021 – Aug 2021</span><br>
-Modeling & Forecasting of Lotto Sales. Analysis of players' behaviour in order to create targeted new games.
-
----
-
 ## Education
+
+**PhD Student** — Centre Borelli, ENS Paris-Saclay & Framatome <span style="float:right; color:#888;">Apr 2024 – Mar 2027</span><br>
+*Main Topics:* Machine Learning for Optimal Control, Machine Learning for Simulation, Sensitivity Analysis, Physics-Informed ML, Safe ML -- (with Application to the Nuclear Industry)
 
 **MVA Master** *(Mathematics, Vision, Learning)* — **Highest Honours** — ENS Paris-Saclay <span style="float:right; color:#888;">2022 – 2023</span><br>
 *Statistical Learning, Deep Learning, Machine Learning, Computer Vision...*
@@ -40,18 +27,20 @@ Two intensive years to prepare contests for top French engineering schools.
 
 ---
 
-## Skills
+## Work Experience
 
-**Languages** &nbsp; French (Native) · English (Fluent, C1 IELTS) · Spanish (Professional, SIELE B2/C1)
+**Pre-Doctoral Researcher** — Centre Borelli, ENS Paris-Saclay <span style="float:right; color:#888;">Apr 2023 – Mar 2024</span><br>
+Research on Machine Learning topics.
 
-**Coding** &nbsp; Python · Matlab · R · VBA · SQL · LaTeX
+**Teaching Assistant** — Lycée Janson de Sailly, Lycée Condorcet, Paris <span style="float:right; color:#888;">2021 – 2023</span><br>
+Oral interrogator for CPGE.
 
-**Music, Sports & Others** &nbsp; Musical Studies Diploma, Regional Conservatory of Versailles (2019) · Football · Swimming · Chess
+**R&D Intern** — Framatome, Paris La Défense <span style="float:right; color:#888;">Apr 2022 – Aug 2022</span><br>
+Implementation (in Matlab) from scratch of an optimization solver inside a dynamical system controlled by MPC algorithms.
+
+**Data Analyst Intern** — Editec UK Ltd., London (UK) <span style="float:right; color:#888;">Jun 2021 – Aug 2021</span><br>
+Modeling & Forecasting of Lotto Sales. Analysis of players' behaviour in order to create targeted new games.
 
 ---
-
-## Publications
-
-See [Google Scholar](https://scholar.google.com/citations?user=Qt7AfjsAAAAJ&hl=fr)
 
 </div>
