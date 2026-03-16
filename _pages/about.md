@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Perceval Beja-Battais
+nav_title: About
 permalink: /
 subtitle: PhD Student in Applied Mathematics
 ---
