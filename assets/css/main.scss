@@ -57,7 +57,7 @@ body::before {
   background-size: cover;
   background-position: center;
 
-  filter: blur(8px) brightness(0.5);
+  filter: blur(4px) brightness(0.5);
   transform: scale(1.05); /* évite les bords après blur */
 
   z-index: -1;
