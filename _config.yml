@@ -73,7 +73,7 @@ nav_bar_items:
     title: Teaching
     permalink: /teaching/
     nav: true
-  publications:
+  CV:
     title: CV
     permalink: /cv/
     nav: true
