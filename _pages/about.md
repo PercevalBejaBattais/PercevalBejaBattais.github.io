@@ -19,4 +19,8 @@ My PhD is funded through a CIFRE fellowship with [Framatome](https://www.framato
 My research sits at the intersection of machine learning and optimal control, with a focus on developing algorithms that are both faster and more accurate in demanding industrial settings. I am particularly interested in how modern ML frameworks can address the computational challenges that arise in real-world control problems.
 All my publications are listed [here](https://percevalbejabattais.github.io/publications/) and on my [Google Scholar](https://scholar.google.com/citations?user=Qt7AfjsAAAAJ&hl=fr).
 
+<div style="text-align: center; margin-top: 2rem;">
+  
 [<-](https://gas-abel.fr) 🍝 Webring des délices 🍜 [->](https://gaetanserre.fr)
+
+</div>
