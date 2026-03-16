@@ -7,8 +7,8 @@ subtitle: PhD Student in Applied Mathematics
 ---
 
 <div style="display: flex; gap: 2rem; align-items: flex-start;">
-
-<div style="flex: 1;" markdown="1">
+  <!-- Colonne de gauche scrollable -->
+  <div style="flex: 1; overflow-y: auto; padding-right: 1rem;" markdown="1">
 
 ## About me
 
@@ -48,7 +48,8 @@ A theoretical review of AdaBoost -- <em>See <a href="https://arxiv.org/pdf/2310.
 
 </div>
 
-<div style="width: 20%; flex-shrink: 0; text-align: center;">
+<!-- Colonne de droite fixe -->
+  <div style="width: 20%; flex-shrink: 0; text-align: center; position: sticky; top: 1rem; height: fit-content;">
   <img src="/assets/img/prof_pic.jpg" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 50%;">
   <p style="font-size: 0.85rem; color: #666;">
     Office 3S28<br>ENS Paris-Saclay<br>Gif-sur-Yvette, France<br>
