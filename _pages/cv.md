@@ -3,6 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 subtitle: PhD Student in Applied Mathematics
+nav: true
 
 profile:
   align: right
