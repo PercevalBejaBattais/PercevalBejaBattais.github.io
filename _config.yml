@@ -67,7 +67,15 @@ nav_bar_items:
     nav: true
   publications:
     title: Publications
-    permalink: /Publications/
+    permalink: /publications/
+    nav: true
+  teaching:
+    title: Teaching
+    permalink: /teaching/
+    nav: true
+  publications:
+    title: CV
+    permalink: /cv/
     nav: true
 
 # Dimensions
