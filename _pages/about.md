@@ -10,7 +10,7 @@ subtitle: PhD Student in Applied Mathematics
 
 <div style="flex: 1;" markdown="1">
 
-# About me
+## About me
 
 I'm a 3rd year PhD Student at [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/fr) (ENS Paris-Saclay) under supervision of [Nicolas Vayatis](https://nvayatis.perso.math.cnrs.fr/).
 My PhD is funded through a CIFRE fellowship with [Framatome](https://www.framatome.com/fr/), a world leader in civil nuclear industry.
@@ -18,7 +18,7 @@ My research sits at the intersection of machine learning and optimal control, wi
 
 All my publications are listed [here](https://percevalbejabattais.github.io/publications/) and on my [Google Scholar](https://scholar.google.com/citations?user=Qt7AfjsAAAAJ&hl=fr).
 
-# Recent Works
+## Recent Works
 
 <div style="margin-bottom: 1.5rem;">
 Research Internship Supervision -- <em> Efficient Sampling of Trajectories for Online Finetuning of ML Surrogate Simulation Scheme (Starting May 2026) </em>
