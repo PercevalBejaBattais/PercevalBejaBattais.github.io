@@ -2,6 +2,8 @@
 layout: page
 title: Publications
 permalink: /publications/
+nav: true
+nav_order: 2
 ---
 
 **Enhancing Nuclear Reactor Core Simulation through Data-Based Surrogate Models** (2025)  
