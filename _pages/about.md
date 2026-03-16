@@ -42,4 +42,3 @@ A theoretical review of AdaBoost -- *See [Paper](https://arxiv.org/pdf/2310.1832
   
 [<-](https://gas-abel.fr) 🍝 Webring des délices 🍜 [->](https://gaetanserre.fr)
 
-</div>
