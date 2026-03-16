@@ -37,3 +37,19 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+
+// Thème jour
+:root {
+  --global-theme-color: #1e40af;        // couleur principale (liens, accents) — actuellement rose
+  --global-hover-color: #1e3a8a;        // hover des liens
+  --global-active-color: #1e40af;       // éléments actifs
+  --global-divider-color: #e5e7eb;      // séparateurs
+}
+
+// Thème nuit
+html[data-theme='dark'] {
+  --global-theme-color: #60a5fa;        // bleu clair sobre pour le dark mode
+  --global-hover-color: #93c5fd;
+  --global-active-color: #60a5fa;
+}
