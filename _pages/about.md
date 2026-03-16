@@ -25,7 +25,7 @@ Research Internship Supervision -- <em> Efficient Sampling of Trajectories for O
 </div>
 
 <div style="margin-bottom: 1.5rem;">
-Research Internship Supervision --  <em> Uncertainty Quantification & Propagation for DAE Simulation Schemes (Starting Mar 2026) </em>
+Research Internship Supervision --  <em> Uncertainty Quantification for DAE Simulation Schemes (Starting Mar 2026) </em>
 </div>
 
 <div style="margin-bottom: 1.5rem;">
