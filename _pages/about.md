@@ -49,8 +49,8 @@ A theoretical review of AdaBoost -- <em>See <a href="https://arxiv.org/pdf/2310.
 </div>
 
 <!-- Colonne de droite fixe -->
-  <div style="width: 20%; text-align: center; position: fixed; top: 1rem; right:1rem;">
-  <img src="/assets/img/prof_pic.jpg" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 50%;">
+  <div style="width: 20%; text-align: center; position: fixed; top: 4rem; right:1rem;">
+  <img src="/assets/img/prof_pic.jpg" style="width: 80%; aspect-ratio: 1; object-fit: cover; border-radius: 50%;">
   <p style="font-size: 0.85rem; color: #666;">
     Office 3S28<br>ENS Paris-Saclay<br>Gif-sur-Yvette, France<br>
     <a href="mailto:perceval.beja-battais@ens-paris-saclay.fr">perceval.beja-battais [at] ens-paris-saclay [dot] fr</a><br><br>
