@@ -60,6 +60,16 @@ socials_in_search: true
 posts_in_search: true
 bib_search: true
 
+nav_bar_items:
+  about:
+    title: About
+    permalink: /
+    nav: true
+  publications:
+    title: Publications
+    permalink: /publications/
+    nav: true
+
 # Dimensions
 max_width: 930px
 
