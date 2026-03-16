@@ -59,25 +59,23 @@ search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
-
 nav_bar_items:
   about:
     title: About
-    profile: true
     permalink: /
-    nav: true
+    nav_order: 1
   publications:
     title: Publications
     permalink: /publications/
-    nav: true
+    nav_order: 2
   teaching:
     title: Teaching
     permalink: /teaching/
-    nav: true
-  CV:
+    nav_order: 3
+  cv:
     title: CV
     permalink: /cv/
-    nav: true
+    nav_order: 4
 
 # Dimensions
 max_width: 930px
