@@ -3,6 +3,8 @@ layout: page
 title: Teaching
 permalink: /teaching/
 subtitle: PhD Student in Applied Mathematics
+nav: true
+nav_order: 3
 ---
 
 **Undergraduate Teaching Assistant** (2025)  
