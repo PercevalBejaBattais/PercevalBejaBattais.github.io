@@ -53,8 +53,8 @@ A theoretical review of AdaBoost -- <em>See <a href="https://arxiv.org/pdf/2310.
   <img src="/assets/img/prof_pic.jpg" style="width: 80%; aspect-ratio: 1; object-fit: cover; border-radius: 50%;">
   <p style="font-size: 0.85rem; color: #666;">
     Office 3S28<br>ENS Paris-Saclay<br>Gif-sur-Yvette, France<br>
-    <a href="mailto:perceval.beja-battais@ens-paris-saclay.fr">perceval.beja-battais [at] ens-paris-saclay [dot] fr</a><br><br>
-    <a href="https://scholar.google.com/citations?user=Qt7AfjsAAAAJ&hl=fr">🎓</a> <a href="https://www.linkedin.com/in/perceval-beja-battais-b043331b9/ style="font-size: 1.2rem; color: #0A66C2;"><i class="fab fa-linkedin-in"></i></a><br>
+    <a href="mailto:perceval.beja-battais@ens-paris-saclay.fr">perceval.beja-battais [at] ens-paris-saclay [dot] fr</a><br>
+    <a href="https://scholar.google.com/citations?user=Qt7AfjsAAAAJ&hl=fr">🎓</a> <a href="https://www.linkedin.com/in/perceval-beja-battais-b043331b9/"><i class="fab fa-linkedin-in"></i></a><br>
     <a href="https://gas-abel.fr">🍝</a> Webring des délices <a href="https://gaetanserre.fr">🍜</a>
   </p>
 </div>
