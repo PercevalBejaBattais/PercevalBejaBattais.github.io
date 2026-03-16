@@ -67,3 +67,19 @@ body::before {
 button#theme-toggle {
   display: none !important;
 }
+
+.section-separator {
+  border: none;
+  border-top: 2px solid #e5e7eb; // couleur gris clair
+  margin: 3rem 0;                // espacement vertical
+  width: 100%;                   // pleine largeur
+}
+
+.recent-work {
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #e5e7eb;  // petite ligne gris clair
+}
+.recent-work:last-child {
+  border-bottom: none; // pas de ligne sur le dernier élément
+}
