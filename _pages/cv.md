@@ -11,16 +11,16 @@ nav_order: 4
 ## Education
 
 **PhD Student** — Centre Borelli, ENS Paris-Saclay & Framatome <span style="float:right; color:#888;">Apr 2024 – Mar 2027</span><br>
-*Main Topics:* Machine Learning for Optimal Control, Machine Learning for Simulation, Sensitivity Analysis, Physics-Informed ML, Safe ML -- with Application to the Nuclear Industry
+*Main Topics: Machine Learning for Optimal Control, Machine Learning for Simulation, Sensitivity Analysis, Physics-Informed ML, Safe ML -- with Application to the Nuclear Industry*
 
 **MVA Master** *(Mathematics, Vision, Learning)* — **Highest Honours** — ENS Paris-Saclay <span style="float:right; color:#888;">2022 – 2023</span><br>
-*Statistical Learning, Deep Learning, Machine Learning, Computer Vision...*
+*Main Courses: Statistical Learning, Deep Learning, Machine Learning, Computer Vision...*
 
 **Mathematics of Modeling Master** — Sorbonne Université <span style="float:right; color:#888;">2021 – 2022</span><br>
-*Optimisation, Optimal Transport, Functional Analysis, Game Theory, Statistics, PDE.*
+*Main Courses: Optimization, Optimal Transport, Functional Analysis, Game Theory, Statistics, PDE.*
 
 **Ingénieur Civil des Mines** — Mines Nancy <span style="float:right; color:#888;">2019 – 2022</span><br>
-*Probabilities, Statistics, PDE, Optimisation, Machine Learning and Deep Learning.*
+*Main Courses: Probabilities, Statistics, PDE, Optimization, Machine Learning and Deep Learning.*
 
 **MPSI – MP** — Lycée Lakanal <span style="float:right; color:#888;">2017 – 2019</span><br>
 Two intensive years to prepare contests for top French engineering schools.
@@ -33,7 +33,7 @@ Two intensive years to prepare contests for top French engineering schools.
 Research on Machine Learning topics.
 
 **Teaching Assistant** — Lycée Janson de Sailly, Lycée Condorcet, Paris <span style="float:right; color:#888;">2021 – 2023</span><br>
-Oral interrogator for CPGE.
+Mock Orals for Undergraduate Students.
 
 **R&D Intern** — Framatome, Paris La Défense <span style="float:right; color:#888;">Apr 2022 – Aug 2022</span><br>
 Implementation (in Matlab) from scratch of an optimization solver inside a dynamical system controlled by MPC algorithms.
