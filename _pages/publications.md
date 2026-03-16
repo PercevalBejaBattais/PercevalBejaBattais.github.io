@@ -17,5 +17,5 @@ with Gaëtan Serré, Sophia Chirrane, Argyris Kalogeratos & Nicolas Vayatis
 [PDF](https://arxiv.org/pdf/2406.19723)
 
 **Overview of AdaBoost: Reconciling its views to better understand its dynamics** (2023) 
-[PDF](https://arxiv.org/pdf/2310.18323))
+[PDF](https://arxiv.org/pdf/2310.18323)
 
