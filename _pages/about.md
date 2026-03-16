@@ -37,13 +37,9 @@ A theoretical review of AdaBoost -- *See [Paper](https://arxiv.org/pdf/2310.1832
   <img src="/assets/img/prof_pic.jpg" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 50%;">
   <p style="font-size: 0.85rem; color: #666;">
     Office 3S28<br>ENS Paris-Saclay<br>Gif-sur-Yvette<br>
-    <a href="mailto:perceval.beja-battais@ens-paris-saclay.fr">perceval.beja-battais [at] ens-paris-saclay [dot] fr</a>
+    <a href="mailto:perceval.beja-battais@ens-paris-saclay.fr">perceval.beja-battais [at] ens-paris-saclay [dot] fr</a><br>
+    [<-](https://gas-abel.fr) 🍝 Webring des délices 🍜 [->](https://gaetanserre.fr)
   </p>
 </div>
 
- 
-
-<div style="text-align: center;" markdown="1">
-  
-[<-](https://gas-abel.fr) 🍝 Webring des délices 🍜 [->](https://gaetanserre.fr)
 
