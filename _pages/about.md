@@ -38,7 +38,7 @@ A theoretical review of AdaBoost -- *See [Paper](https://arxiv.org/pdf/2310.1832
   <p style="font-size: 0.85rem; color: #666;">
     Office 3S28<br>ENS Paris-Saclay<br>Gif-sur-Yvette<br>
     <a href="mailto:perceval.beja-battais@ens-paris-saclay.fr">perceval.beja-battais [at] ens-paris-saclay [dot] fr</a><br>
-    [<-](https://gas-abel.fr) 🍝 Webring des délices 🍜 [->](https://gaetanserre.fr)
+    <a href="<-">(https://gas-abel.fr)</a> 🍝 Webring des délices 🍜 <a href="->">(https://gaetanserre.fr)</a>
   </p>
 </div>
 
