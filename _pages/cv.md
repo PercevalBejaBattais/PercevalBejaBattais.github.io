@@ -11,7 +11,7 @@ nav_order: 4
 ## Education
 
 **PhD Student** — Centre Borelli, ENS Paris-Saclay & Framatome <span style="float:right; color:#888;">Apr 2024 – Mar 2027</span><br>
-*Main Topics:* Machine Learning for Optimal Control, Machine Learning for Simulation, Sensitivity Analysis, Physics-Informed ML, Safe ML -- (with Application to the Nuclear Industry)
+*Main Topics:* Machine Learning for Optimal Control, Machine Learning for Simulation, Sensitivity Analysis, Physics-Informed ML, Safe ML -- with Application to the Nuclear Industry
 
 **MVA Master** *(Mathematics, Vision, Learning)* — **Highest Honours** — ENS Paris-Saclay <span style="float:right; color:#888;">2022 – 2023</span><br>
 *Statistical Learning, Deep Learning, Machine Learning, Computer Vision...*
