@@ -14,6 +14,10 @@ profile:
     <p>Gif-sur-Yvette, France</p>
 ---
 
+<div style="display: flex; gap: 2rem; align-items: flex-start;">
+
+<div style="flex: 1;">
+
 ** About me **
 
 I'm a 3rd year PhD Student at [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/fr) (ENS Paris-Saclay) under supervision of [Nicolas Vayatis](https://nvayatis.perso.math.cnrs.fr/).
@@ -31,7 +35,14 @@ Designing practical improvements on a global optimization algorithm -- *See (Pap
 
 A theoretical review of AdaBoost -- *See (Paper)[]*
 
-<div style="text-align: center; margin-top: 2rem;">
+</div>
+
+<div style="width: 20%; flex-shrink: 0; text-align: center;">
+  <img src="/assets/img/prof_pic.jpg" style="width: 100%; border-radius: 50%;">
+  <p style="font-size: 0.85rem; color: #666;">Office 3S28<br>ENS Paris-Saclay<br>Gif-sur-Yvette</p>
+</div>
+
+</div>
   
 [<-](https://gas-abel.fr) 🍝 Webring des délices 🍜 [->](https://gaetanserre.fr)
 
