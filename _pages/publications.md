@@ -26,6 +26,6 @@ with Gaëtan Serré, Sophia Chirrane, Argyris Kalogeratos & Nicolas Vayatis<br>
 
 ## Patents
 
-**A novel warm-start method for Optimal Control of Nuclear Power Plants**(2025)
+**A novel warm-start method for Optimal Control of Nuclear Power Plants** (2025)<br>
 with Alain Grossetête & Nicolas Vayatis<br>
 *Using a ML surrogate simulation scheme for fast integration of Differential Algebraic Equations, we design a warm-start method for NMPC applied to the load-following of Nuclear Power Plants.*
