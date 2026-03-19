@@ -14,7 +14,9 @@ subtitle: PhD Student in Applied Mathematics
 
 I'm a 3rd year PhD Student in Applied Mathematics at [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/fr) (ENS Paris-Saclay) under supervision of [Nicolas Vayatis](https://nvayatis.perso.math.cnrs.fr/).
 My PhD is funded through a CIFRE fellowship with [Framatome](https://www.framatome.com/fr/), a world leader in civil nuclear industry.
-My research sits at the intersection of machine learning and optimal control, with a focus on developing algorithms that are both faster and more accurate in demanding industrial settings. I am particularly interested in how modern ML frameworks can address the computational challenges that arise in real-world control problems.
+My research sits at the intersection of machine learning and optimal control, with a focus on developing methods that are both faster and more accurate in demanding industrial settings. I am particularly interested in how modern ML frameworks can address the computational challenges that arise in real-world control problems.
+
+My main research topics include surrogate dynamics learning, imitation learning, reinforcement learning, and model predictive control.
 
 All my publications are listed [here](https://percevalbejabattais.github.io/publications/) and on my [Google Scholar](https://scholar.google.com/citations?user=Qt7AfjsAAAAJ&hl=fr).
 
