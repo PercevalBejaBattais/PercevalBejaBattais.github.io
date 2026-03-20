@@ -53,7 +53,7 @@ Designing practical improvements on a global optimization algorithm — <em>See 
 </div>
 
 <div class="recent-work">
-A theoretical review of AdaBoost — <em>See <a href="https://arxiv.org/pdf/2310.18323">Paper</a></em>
+A theoretical review of AdaBoost — <em>See <a href="https://arxiv.org/pdf/2310.18323">Paper</a></em><br>
   <em>Unifying the views of AdaBoost, in order to better understand its dynamics. </em>
 </div>
 
