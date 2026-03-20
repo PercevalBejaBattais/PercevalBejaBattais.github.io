@@ -25,32 +25,35 @@ All my publications are listed [here](https://percevalbejabattais.github.io/publ
 ## Recent Works
 
 <div class="recent-work">
-Research Internship Supervision -- <em> Efficient Sampling of Trajectories for Online Finetuning of ML Surrogate Simulation Scheme (Starting May 2026) </em>
+Research Internship Supervision<br> 
+  <em> Efficient Sampling of Trajectories for Online Finetuning of ML Surrogate Simulation Scheme (Starting May 2026) </em>
 </div>
 
 <div class="recent-work">
-Research Internship Supervision --  <em> Uncertainty Quantification for DAE Simulation Schemes (Starting Mar 2026) </em>
+Research Internship Supervision<br>
+  <em> Uncertainty Quantification for DAE Simulation Schemes (Starting Mar 2026) </em>
 </div>
 
 <div class="recent-work">
-Towards Safe Industrial Control using Machine Learning Surrogates -- <em>Ongoing work, to be published soon!</em>
+Towards Safe Industrial Control using Machine Learning Surrogates<br>
+  <em>Ongoing work, to be published soon!</em>
   <em>We leverage a fast ML surrogate integration scheme for Optimal Control Problems, especially long-horizon Nonlinear Model Predictive Control. </em>
 </div>
 
 <div class="recent-work">
-Leveraging Machine Learning to accelerate Differential Algebraic Equations simulation algorithms -- <em>See <a href="https://arxiv.org/pdf/2511.16148">Paper</a></em><br>
+Leveraging Machine Learning to accelerate Differential Algebraic Equations simulation algorithms — <em>See <a href="https://arxiv.org/pdf/2511.16148">Paper</a></em><br>
   <em>This paper develops a ML surrogate simulation scheme for fast integration of Differential Algebraic Equations modeling a nuclear reactor core.</em>
 <img src="/assets/img/accelDAE.svg" alt="illustration" style="width: 90%; border-radius: 4px; margin-top: 0.5rem; display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 <div class="recent-work">
-Designing practical improvements on a global optimization algorithm -- <em>See <a href="https://arxiv.org/pdf/2406.19723">Paper</a></em><br>
+Designing practical improvements on a global optimization algorithm — <em>See <a href="https://arxiv.org/pdf/2406.19723">Paper</a></em><br>
   <em>This paper develops two major improvements on the global optimization LIPO from <a href="https://proceedings.mlr.press/v70/malherbe17a/malherbe17a.pdf">Malherbe & Vayatis, 2017</a>: an empirical stopping criterion and a decaying exploration rate. </em>
 <img src="/assets/img/Lipo+fig.svg" alt="illustration" style="width: 90%; border-radius: 4px; margin-top: 0.5rem; display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 <div class="recent-work">
-A theoretical review of AdaBoost -- <em>See <a href="https://arxiv.org/pdf/2310.18323">Paper</a></em>
+A theoretical review of AdaBoost — <em>See <a href="https://arxiv.org/pdf/2310.18323">Paper</a></em>
   <em>Unifying the views of AdaBoost, in order to better understand its dynamics. </em>
 </div>
 
