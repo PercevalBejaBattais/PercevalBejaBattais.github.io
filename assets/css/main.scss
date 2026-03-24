@@ -68,6 +68,11 @@ button#theme-toggle {
   display: none !important;
 }
 
+body {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+}
+
 .section-separator {
   border: none;
   border-top: 2px solid #e5e7eb; // couleur gris clair
