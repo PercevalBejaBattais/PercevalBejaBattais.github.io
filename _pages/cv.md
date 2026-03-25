@@ -43,4 +43,12 @@ Modeling & Forecasting of Lotto Sales. Analysis of players' behaviour in order t
 
 ---
 
+## Talks
+
+**Enhancing Nuclear Reactor Core Simulation through Data-Based Surrogate Models**<span style="float:right; color:#888;">2025</span><br><br>
+*International Congress on Advances in Nuclear Power Plants*
+
+**1st Prize RL Challenge Accenta**<span style="float:right; color:#888;">2024</span><br><br>
+*Collège de France*
+
 </div>
