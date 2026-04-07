@@ -10,9 +10,8 @@ nav_order: 2
 
 **Accelerating Full-Scale Nonlinear Model Predictive Control via Surrogate Dynamics Optimization** (2026)<br>
 with Guillaume Dupré, Alain Grossetête & Nicolas Vayatis<br>
-  <em>[PDF](https://hal.science/hal-05580929)</em>
-  <em>In long-horizon nonlinear MPC, we show that learned surrogate dynamics can significantly accelerate computation while preserving safety. </em>
-</div>
+  *In long-horizon nonlinear MPC, we show that learned surrogate dynamics can significantly accelerate computation while preserving safety.*<br>
+  [PDF](https://hal.science/hal-05580929)
 
 **Enhancing Nuclear Reactor Core Simulation through Data-Based Surrogate Models** (2025)<br>
 with Alain Grossetête & Nicolas Vayatis<br>
