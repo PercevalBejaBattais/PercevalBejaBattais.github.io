@@ -35,9 +35,9 @@ Research Internship Supervision<br>
 </div>
 
 <div class="recent-work">
-Towards Safe Industrial Control using Machine Learning Surrogates<br>
+Accelerating Full-Scale Nonlinear Model Predictive Control via Surrogate Dynamics Optimization<br>
   <em>Ongoing work, to be published soon!</em>
-  <em>We leverage a fast ML surrogate integration scheme for Optimal Control Problems, especially long-horizon Nonlinear Model Predictive Control. </em>
+  <em>In long-horizon nonlinear MPC, we show that learned surrogate dynamics can significantly accelerate computation while preserving safety. </em>
 </div>
 
 <div class="recent-work">
