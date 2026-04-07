@@ -35,8 +35,7 @@ Research Internship Supervision<br>
 </div>
 
 <div class="recent-work">
-Accelerating Full-Scale Nonlinear Model Predictive Control via Surrogate Dynamics Optimization<br>
-  <em>[PDF](https://hal.science/hal-05580929)</em>
+Accelerating Full-Scale Nonlinear Model Predictive Control via Surrogate Dynamics Optimization — <em>See <a href="https://hal.science/hal-05580929">Paper</a></em><br>
   <em>In long-horizon nonlinear MPC, we show that learned surrogate dynamics can significantly accelerate computation while preserving safety. </em>
 </div>
 
