@@ -19,7 +19,8 @@ I am particularly interested in bridging the gap between modern ML methods and c
 
 My main research topics include surrogate dynamics learning, imitation learning, reinforcement learning, and model predictive control.
 
-All my publications are listed [here](https://percevalbejabattais.github.io/publications/) and on my [Google Scholar](https://scholar.google.com/citations?user=Qt7AfjsAAAAJ&hl=fr).
+All my publications are listed [here](https://percevalbejabattais.github.io/publications/) and on my [Google Scholar](https://scholar.google.com/citations?user=Qt7AfjsAAAAJ&hl=fr). 
+For any request, feel free to contact me on my [email adress](mailto:perceval.beja-battais@ens-paris-saclay.fr).
 
 <hr class="section-separator">
 
