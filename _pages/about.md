@@ -15,7 +15,7 @@ subtitle: PhD Student in Applied Mathematics
 I'm a 3rd year PhD Student in Applied Mathematics at [Centre Borelli](https://centreborelli.ens-paris-saclay.fr/fr) (ENS Paris-Saclay) under supervision of [Nicolas Vayatis](https://nvayatis.perso.math.cnrs.fr/). I am working in collaboration with [Framatome](https://www.framatome.com/fr/), a world leader in civil nuclear industry.
 
 My work focuses on the control of complex dynamical systems under real-world constraints, combining machine learning and model-based approaches to improve both computational efficiency and robustness.
-I am particularly interested in bridging the gap between modern ML methods and control theory, with an emphasis on scalable and reliable solutions for industrial systems.
+During my PhD, I develop ML surrogate models for industrial dynamical systems and integrate them into nonlinear MPC pipelines with formal safety guarantees. My work bridges surrogate dynamics learning, differential algebraic equations, and optimal control — with a focus on sample efficiency and stability.
 
 My main research topics include surrogate dynamics learning, imitation learning, reinforcement learning, and model predictive control.
 
