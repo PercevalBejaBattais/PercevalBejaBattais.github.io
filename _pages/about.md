@@ -33,7 +33,7 @@ Research Internship Supervision<br>
 
 <div class="recent-work">
 Research Internship Supervision<br>
-  <em> Uncertainty Quantification for DAE Simulation Schemes (Starting Mar 2026) </em>
+  <em> Perturbation analysis of the solutions of Nonlinear DAEs (Starting Mar 2026) </em>
 </div>
 
 <div class="recent-work">
