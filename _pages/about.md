@@ -28,12 +28,12 @@ For any request, feel free to contact me on my [email adress](mailto:perceval.be
 
 <div class="recent-work">
 Research Internship Supervision<br> 
-  <em> Efficient Sampling of Trajectories for Online Finetuning of ML Surrogate Simulation Scheme (Starting May 2026) </em>
+  <em> Efficient Sampling of Trajectories for Online Finetuning of ML Surrogate Simulation Schemes (May-October 2026) </em>
 </div>
 
 <div class="recent-work">
 Research Internship Supervision<br>
-  <em> Perturbation analysis of the solutions of Nonlinear DAEs (Starting Mar 2026) </em>
+  <em> Singular pertubation of Nonlinear DAEs (Mar-June 2026) </em>
 </div>
 
 <div class="recent-work">
