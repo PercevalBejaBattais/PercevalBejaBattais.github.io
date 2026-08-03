@@ -43,7 +43,7 @@ Accelerating Full-Scale Nonlinear Model Predictive Control via Surrogate Dynamic
 </div>
 
 <div class="recent-work">
-Leveraging Machine Learning to accelerate Differential Algebraic Equations simulation algorithms — <em>See <a href="https://arxiv.org/pdf/2511.16148">Paper</a></em><br>
+Leveraging Machine Learning to accelerate Differential Algebraic Equations simulation algorithms — <em>See <a href="https://hal.science/hal-05360255/document">Paper</a></em><br>
   <em>This paper develops a ML surrogate simulation scheme for fast integration of Differential Algebraic Equations modeling a nuclear reactor core.</em>
 <img src="/assets/img/accelDAE.svg" alt="illustration" style="width: 90%; border-radius: 4px; margin-top: 0.5rem; display: block; margin-left: auto; margin-right: auto;">
 </div>
