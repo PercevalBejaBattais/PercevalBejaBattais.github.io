@@ -17,7 +17,7 @@ with Guillaume Dupré, Alain Grossetête & Nicolas Vayatis<br>
 with Alain Grossetête & Nicolas Vayatis<br>
 *This paper develops a ML surrogate simulation scheme for fast integration of Differential Algebraic Equations modeling a nuclear reactor core.*<br>
 *ICAPP 2025*<br>
-[PDF](https://arxiv.org/pdf/2511.16148)
+[PDF](https://hal.science/hal-05360255/document)
 
 **Lipo+: Frugal global optimization for lipschitz functions** (2024)<br>
 with Gaëtan Serré, Sophia Chirrane, Argyris Kalogeratos & Nicolas Vayatis<br>
