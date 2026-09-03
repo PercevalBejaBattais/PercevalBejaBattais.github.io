@@ -30,6 +30,12 @@ For any request, feel free to contact me on my [email adress](mailto:perceval.be
 ## Recent Works
 
 <div class="recent-work">
+Poster presentation @Machine Learning Summer School<br> 
+  <em> Check out <a href="files/poster_mlss2026.pdf">here</a> a summary of my works applying ML methods for Optimal Control of Nuclear Reactors ! </em>
+</div>
+
+
+<div class="recent-work">
 Research Internship Supervision<br> 
   <em> Efficient Sampling of Trajectories for Online Finetuning of Surrogate Simulation Schemes (May-October 2026) </em>
 </div>
