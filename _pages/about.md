@@ -30,7 +30,7 @@ For any request, feel free to contact me on my [email adress](mailto:perceval.be
 ## Recent Works
 
 <div class="recent-work">
-Poster presentation @Machine Learning Summer School<br> 
+Poster presentation <a href="https://mlss2026.is.tuebingen.mpg.de/">@Machine Learning Summer School in Tübingen</a> <br> 
   <em> Check out <a href="files/poster_mlss2026.pdf">here</a> a summary of my works applying ML methods for Optimal Control of Nuclear Reactors ! </em>
 </div>
 
