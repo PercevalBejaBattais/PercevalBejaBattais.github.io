@@ -1,23 +1,39 @@
 ---
-layout: page
+layout: site
 title: Teaching
 permalink: /teaching/
 nav: true
+attractor: vanderpol
 nav_order: 3
 ---
 
-**Teaching Assistant** (2026-2027)<br>
-[Introduction to Statistical Learning](https://nvayatis.perso.math.cnrs.fr/ISLcourse.html), M.Sc. Mathématique, Vision, Apprentissage<br>
-
-**Teaching Assistant** (2025)<br>
-IPESUP<br>
-*Mock Orals for Top French Engineering School Contests (MP)*  
-
-**Teaching Assistant** (2022-2023)<br> 
-Lycée Janson-de-Sailly<br>
-*Mock Orals for Top French Engineering School Contests (BCPST-2A)*
-
-**Teaching Assistant** (2021-2023)<br>
-Lycée Condorcet<br>
-*Mock Orals for Top French Engineering School Contests (MPSI)* 
-
+<div class="entries">
+  <article class="entry">
+    <p class="entry-meta"><strong>TA</strong>2026 – 2027</p>
+    <div>
+      <h3 class="entry-title"><a href="https://nvayatis.perso.math.cnrs.fr/ISLcourse.html">Introduction to Statistical Learning</a></h3>
+      <p class="entry-sub">M.Sc. Mathématiques, Vision, Apprentissage (MVA)</p>
+    </div>
+  </article>
+  <article class="entry">
+    <p class="entry-meta"><strong>TA</strong>2025</p>
+    <div>
+      <h3 class="entry-title">IPESUP</h3>
+      <p class="entry-desc">Mock Orals for Top French Engineering School Contests (MP)</p>
+    </div>
+  </article>
+  <article class="entry">
+    <p class="entry-meta"><strong>TA</strong>2022 – 2023</p>
+    <div>
+      <h3 class="entry-title">Lycée Janson-de-Sailly</h3>
+      <p class="entry-desc">Mock Orals for Top French Engineering School Contests (BCPST-2A)</p>
+    </div>
+  </article>
+  <article class="entry">
+    <p class="entry-meta"><strong>TA</strong>2021 – 2023</p>
+    <div>
+      <h3 class="entry-title">Lycée Condorcet</h3>
+      <p class="entry-desc">Mock Orals for Top French Engineering School Contests (MPSI)</p>
+    </div>
+  </article>
+</div>
