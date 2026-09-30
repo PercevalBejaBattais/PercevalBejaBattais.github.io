@@ -48,6 +48,14 @@ attractor_y: 0.43
   <h2 class="section-label">Recent works</h2>
   <div class="entries">
     <article class="entry">
+      <p class="entry-meta"><strong>Paper</strong>Sep 2026</p>
+      <div>
+        <h3 class="entry-title">Structured Representation Learning for Behavior Cloning: How can we learn to safely control a nuclear power plant?</h3>
+        <p class="entry-desc">Structuring the latent space by timescale makes behavior cloning of an NMPC expert for nuclear load-following more accurate and more often feasible — and, used to warm-start the NMPC, it recovers full feasibility while cutting computation time by 15%.</p>
+        <div class="entry-foot"><span class="venue">NeurIPS 2026 · AI4PowerGrids</span><span class="link link--soon">arXiv coming soon</span></div>
+      </div>
+    </article>
+    <article class="entry">
       <p class="entry-meta"><strong>Poster</strong>Sep 2026</p>
       <div>
         <h3 class="entry-title">Poster presentation @ <a href="https://mlss2026.is.tuebingen.mpg.de/">Machine Learning Summer School in Tübingen</a></h3>
