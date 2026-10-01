@@ -7,6 +7,8 @@ attractor: aizawa
 nav_order: 4
 ---
 
+<p class="cv-download"><a class="pill" href="/assets/pdf/CV_Perceval_Beja-Battais.pdf"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M11 3h2v10.6l3.3-3.3 1.4 1.4L12 17.4l-5.7-5.7 1.4-1.4 3.3 3.3V3zM5 19h14v2H5v-2z"/></svg>Download PDF</a></p>
+
 <section class="group">
   <h2 class="group-title">Education</h2>
   <div class="entries">
@@ -57,6 +59,14 @@ nav_order: 4
 <section class="group">
   <h2 class="group-title">Work Experience</h2>
   <div class="entries">
+    <article class="entry">
+      <p class="entry-meta">2026 – 2027</p>
+      <div>
+        <h3 class="entry-title">Teaching Assistant</h3>
+        <p class="entry-sub">MVA Master, ENS Paris-Saclay</p>
+        <p class="entry-desc"><a href="https://nvayatis.perso.math.cnrs.fr/ISLcourse.html">Introduction to Statistical Learning</a>.</p>
+      </div>
+    </article>
     <article class="entry">
       <p class="entry-meta">Apr 2023 – Mar 2024</p>
       <div>

@@ -1,0 +1,175 @@
+% CV of Perceval Beja-Battais
+% Build: latexmk -pdf cv.tex  (from this folder), then copy cv.pdf to
+% assets/pdf/CV_Perceval_Beja-Battais.pdf
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{libertinus}
+\usepackage[scaled=0.92]{sourcesanspro}
+\usepackage{microtype}
+\usepackage[a4paper,margin=1.6cm,top=1.3cm,bottom=1.2cm]{geometry}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{fontawesome5}
+\usepackage[hidelinks]{hyperref}
+
+\definecolor{ink}{HTML}{16181D}
+\definecolor{muted}{HTML}{6E7078}
+\definecolor{accent}{HTML}{1F4FA3}
+\definecolor{warm}{HTML}{D4822A}
+\color{ink}
+
+\hypersetup{pdftitle={CV -- Perceval Beja-Battais}, pdfauthor={Perceval Beja-Battais}}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+
+% Section titles: small caps sans, with a warm marker and a thin rule
+\titleformat{\section}
+  {\sffamily\bfseries\small\color{ink}}
+  {}{0pt}
+  {{\color{warm}\rule[0.15ex]{0.5em}{0.5em}}\hspace{0.6em}\MakeUppercase}
+  [{\color{muted!35}\titlerule[0.4pt]}]
+\titlespacing*{\section}{0pt}{9pt}{4pt}
+
+\newcommand{\when}[1]{{\sffamily\small\color{muted}#1}}
+
+% \entry{title}{dates}{institution}{description}
+\newcommand{\entry}[4]{%
+  \textbf{#1}\hfill\when{#2}\\
+  {\itshape #3}%
+  \if\relax\detokenize{#4}\relax\else{\small\ \textperiodcentered\ #4}\fi
+  \par\vspace{3pt}}
+
+% \pub{authors}{title}{venue}{links}
+\newcommand{\pub}[4]{%
+  {\raggedright #1. \textbf{#2} {\itshape #3}%
+  \if\relax\detokenize{#4}\relax\else\ {\sffamily\small #4}\fi
+  \par}\vspace{3pt}}
+
+\newcommand{\me}{\underline{P.~Beja-Battais}}
+\newcommand{\lnk}[2]{\href{#1}{\color{accent}#2}}
+
+\begin{document}
+
+% ---------------------------------------------------------------- Header
+\begin{minipage}[b]{0.56\linewidth}
+  {\fontsize{24}{26}\selectfont Perceval Beja-Battais}\\[4pt]
+  {\sffamily\color{muted} PhD Student in Applied Mathematics}\\[1pt]
+  {\small Centre Borelli, ENS Paris-Saclay \textperiodcentered{} in collaboration with Framatome}
+\end{minipage}%
+\hfill
+\begin{minipage}[b]{0.4\linewidth}
+  \raggedleft\small
+  \lnk{mailto:perceval.beja-battais@ens-paris-saclay.fr}{perceval.beja-battais@ens-paris-saclay.fr}~\faEnvelope[regular]\\[1pt]
+  \lnk{https://percevalbejabattais.github.io}{percevalbejabattais.github.io}~\faGlobe\\[1pt]
+  \lnk{https://scholar.google.com/citations?user=Qt7AfjsAAAAJ}{Google Scholar}~\faGraduationCap
+  \quad\lnk{https://www.linkedin.com/in/perceval-beja-battais-b043331b9/}{LinkedIn}~\faLinkedin\\[1pt]
+  Office 3S28, ENS Paris-Saclay, Gif-sur-Yvette~\faMapMarker*
+\end{minipage}
+
+\vspace{6pt}
+{\small\color{muted}\sffamily Imitation Learning \textperiodcentered{} Dynamical Systems \textperiodcentered{} Statistical Learning \textperiodcentered{} Model Predictive Control}
+
+% ---------------------------------------------------------------- Education
+\section{Education}
+
+\entry{PhD in Applied Mathematics}{Apr 2024 -- Mar 2027}
+  {Centre Borelli, ENS Paris-Saclay \& Framatome --- supervised by Nicolas Vayatis}
+  {Machine Learning for Optimal Control, Machine Learning for Simulation, Sensitivity Analysis, Physics-Informed ML, Safe ML --- with application to the nuclear industry.}
+
+\entry{MVA Master (Mathematics, Vision, Learning) --- Highest Honours}{2022 -- 2023}
+  {ENS Paris-Saclay}
+  {Statistical Learning, Deep Learning, Machine Learning, Computer Vision.}
+
+\entry{Mathematics of Modeling Master}{2021 -- 2022}
+  {Sorbonne Université}
+  {Optimization, Optimal Transport, Functional Analysis, Game Theory, Statistics, PDE.}
+
+\entry{Ingénieur Civil des Mines}{2019 -- 2022}
+  {Mines Nancy}
+  {Probabilities, Statistics, PDE, Optimization, Machine Learning and Deep Learning.}
+
+\entry{MPSI -- MP}{2017 -- 2019}
+  {Lycée Lakanal}
+  {Two intensive years preparing the entrance exams of top French engineering schools.}
+
+% ---------------------------------------------------------------- Publications
+\section{Publications}
+
+\pub{\me, A.~Grossetête, N.~Vayatis}
+  {Structured Representation Learning for Behavior Cloning: How can we learn to safely control a nuclear power plant?}
+  {NeurIPS 2026 Workshop AI4PowerGrids}
+  {(arXiv coming soon)}
+
+\pub{\me, G.~Dupré, A.~Grossetête, N.~Vayatis}
+  {Accelerating Full-Scale Nonlinear Model Predictive Control via Surrogate Dynamics Optimization.}
+  {Preprint, 2026}
+  {\lnk{https://arxiv.org/abs/2604.05566}{arXiv:2604.05566}}
+
+\pub{\me, A.~Grossetête, N.~Vayatis}
+  {Enhancing Nuclear Reactor Core Simulation through Data-Based Surrogate Models.}
+  {International Congress on Advances in Nuclear Power Plants (ICAPP), 2025}
+  {\lnk{https://hal.science/hal-05360255}{hal-05360255}}
+
+\pub{G.~Serré, \me, S.~Chirrane, A.~Kalogeratos, N.~Vayatis}
+  {LIPO+: Frugal Global Optimization for Lipschitz Functions.}
+  {SETN 2024}
+  {\lnk{https://arxiv.org/abs/2406.19723}{arXiv:2406.19723}}
+
+\pub{\me}
+  {Overview of AdaBoost: Reconciling its views to better understand its dynamics.}
+  {Preprint, 2023}
+  {\lnk{https://arxiv.org/abs/2310.18323}{arXiv:2310.18323}}
+
+\vspace{2pt}
+{\sffamily\small\color{muted} Patent}\par\vspace{3pt}
+\pub{\me, A.~Grossetête, N.~Vayatis}
+  {A novel warm-start method for Optimal Control of Nuclear Power Plants.}
+  {Patent, 2025}
+  {}
+
+% ---------------------------------------------------------------- Experience
+\section{Research \& Work Experience}
+
+\entry{Pre-Doctoral Researcher}{Apr 2023 -- Mar 2024}
+  {Centre Borelli, ENS Paris-Saclay}
+  {Research on Machine Learning topics.}
+
+\entry{R\&D Intern}{Apr -- Aug 2022}
+  {Framatome, Paris La Défense}
+  {Implementation from scratch of an optimization solver inside a dynamical system controlled by MPC algorithms.}
+
+\entry{Data Analyst Intern}{Jun -- Aug 2021}
+  {Editec UK Ltd., London (UK)}
+  {Modeling \& forecasting of lotto sales; analysis of players' behaviour to design targeted new games.}
+
+% ---------------------------------------------------------------- Talks
+\section{Talks, Posters \& Awards}
+
+\entry{Poster --- Machine Learning for Optimal Control of Nuclear Power Plants}{Sep 2026}
+  {Machine Learning Summer School (MLSS), Tübingen}{}
+
+\entry{Talk --- Enhancing Nuclear Reactor Core Simulation through Data-Based Surrogate Models}{2025}
+  {International Congress on Advances in Nuclear Power Plants (ICAPP)}{}
+
+\entry{1st Prize --- RL Challenge Accenta}{2024}
+  {Collège de France}{}
+
+% ---------------------------------------------------------------- Teaching
+\section{Teaching \& Supervision}
+
+\entry{Teaching Assistant --- Introduction to Statistical Learning}{2026 -- 2027}
+  {MVA Master, ENS Paris-Saclay}{}
+
+\entry{Mock oral examiner for engineering school entrance exams}{2021 -- 2025}
+  {IPESUP (MP, 2025) \textperiodcentered{} Lycée Janson-de-Sailly (BCPST-2A, 2022--2023) \textperiodcentered{} Lycée Condorcet (MPSI, 2021--2023)}{}
+
+\entry{Research internship supervision}{2026}
+  {Efficient Sampling of Trajectories for Online Finetuning of Surrogate Simulation Schemes (May -- Oct 2026)\\
+   Singular Perturbation of Nonlinear DAEs (Mar -- Jun 2026)}{}
+
+\end{document}
