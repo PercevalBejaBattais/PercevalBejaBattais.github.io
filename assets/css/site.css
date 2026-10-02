@@ -329,6 +329,11 @@ a:hover {
   margin: 0;
 }
 
+.portrait a {
+  display: block;
+  cursor: zoom-in;
+}
+
 .portrait img {
   width: 100%;
   aspect-ratio: 4 / 5;

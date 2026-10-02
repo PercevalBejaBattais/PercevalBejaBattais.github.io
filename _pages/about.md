@@ -22,7 +22,7 @@ attractor_y: 0.43
     <address class="hero-address">Office 3S28 · ENS Paris-Saclay · Gif-sur-Yvette, France</address>
   </div>
   <figure class="portrait">
-    <img src="/assets/img/prof_pic_web.jpg" width="720" height="900" alt="Portrait of Perceval Beja-Battais">
+    <a href="/photo.jpg" target="_self"><img src="/assets/img/prof_pic_web.jpg" width="720" height="900" alt="Portrait of Perceval Beja-Battais"></a>
     <div class="knobs"></div>
   </figure>
 </section>
