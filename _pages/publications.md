@@ -16,7 +16,7 @@ nav_order: 2
         <h3 class="entry-title">Structured Representation Learning for Behavior Cloning: How can we learn to safely control a nuclear power plant?</h3>
         <p class="entry-sub">with Alain Grossetête &amp; Nicolas Vayatis</p>
         <p class="entry-desc">Structuring the latent space by timescale makes behavior cloning of an NMPC expert for nuclear load-following more accurate and more often feasible — and, used to warm-start the NMPC, it recovers full feasibility while cutting computation time by 15%.</p>
-        <div class="entry-foot"><span class="venue">NeurIPS 2026 Workshop · AI4PowerGrids</span><span class="link link--soon">arXiv coming soon</span></div>
+        <div class="entry-foot"><span class="venue">NeurIPS 2026 Workshop · AI4PowerGrids</span><a class="link" href="https://arxiv.org/pdf/2610.06211">PDF</a></div>
       </div>
     </article>
     <article class="entry">

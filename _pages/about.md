@@ -52,7 +52,7 @@ attractor_y: 0.43
       <div>
         <h3 class="entry-title">Structured Representation Learning for Behavior Cloning: How can we learn to safely control a nuclear power plant?</h3>
         <p class="entry-desc">Structuring the latent space by timescale makes behavior cloning of an NMPC expert for nuclear load-following more accurate and more often feasible — and, used to warm-start the NMPC, it recovers full feasibility while cutting computation time by 15%.</p>
-        <div class="entry-foot"><span class="venue">NeurIPS 2026 · AI4PowerGrids</span><span class="link link--soon">arXiv coming soon</span></div>
+        <div class="entry-foot"><span class="venue">NeurIPS 2026 · AI4PowerGrids</span><a class="link" href="https://arxiv.org/pdf/2610.06211">Paper</a></div>
       </div>
     </article>
     <article class="entry">
@@ -91,7 +91,7 @@ attractor_y: 0.43
         <h3 class="entry-title">Leveraging Machine Learning to accelerate Differential Algebraic Equations simulation algorithms</h3>
         <p class="entry-desc">This paper develops a ML surrogate simulation scheme for fast integration of Differential Algebraic Equations modeling a nuclear reactor core.</p>
         <figure class="entry-figure"><img src="/assets/img/accelDAE.jpg" width="2165" height="472" loading="lazy" alt="Diagram of the surrogate simulation scheme: the model is applied recursively over the horizon before computing the loss"></figure>
-        <div class="entry-foot"><a class="link" href="https://hal.science/hal-05360255/document">Paper</a></div>
+        <div class="entry-foot"><span class="venue">ICAPP 2025</span><a class="link" href="https://hal.science/hal-05360255/document">Paper</a></div>
       </div>
     </article>
     <article class="entry">
@@ -100,7 +100,7 @@ attractor_y: 0.43
         <h3 class="entry-title">Designing practical improvements on a global optimization algorithm</h3>
         <p class="entry-desc">This paper develops two major improvements on the global optimization method LIPO from <a href="https://proceedings.mlr.press/v70/malherbe17a/malherbe17a.pdf">Malherbe &amp; Vayatis, 2017</a>: an empirical stopping criterion and a decaying exploration rate.</p>
         <figure class="entry-figure"><img src="/assets/img/Lipo+fig.jpg" width="1019" height="589" loading="lazy" alt="Evaluation points of AdaLIPO and AdaLIPO+ on a multimodal test function"></figure>
-        <div class="entry-foot"><a class="link" href="https://arxiv.org/pdf/2406.19723">Paper</a></div>
+        <div class="entry-foot"><span class="venue">SETN 2024</span><a class="link" href="https://arxiv.org/pdf/2406.19723">Paper</a></div>
       </div>
     </article>
     <article class="entry">
