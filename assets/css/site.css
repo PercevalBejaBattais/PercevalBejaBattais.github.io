@@ -789,6 +789,12 @@ main {
   content: none;
 }
 
+.entry-label {
+  margin-right: 0.15rem;
+  color: var(--ink-3);
+  font-size: 0.85rem;
+}
+
 .entry-figure {
   margin: 1rem 0 0;
   padding: 0.75rem;
