@@ -12,6 +12,11 @@
   --accent: #1f4fa3;
   --accent-soft: rgba(31, 79, 163, 0.08);
   --warm: #d4822a;
+  --topic-il: #7b4fae;
+  --topic-ds: #17807a;
+  --topic-ml: #2f5fb3;
+  --topic-mpc: #b0611a;
+  --topic-opt: #b23d62;
 
   --sans: "Geist", system-ui, -apple-system, "Segoe UI", sans-serif;
   --mono: "Geist Mono", ui-monospace, "SF Mono", Menlo, monospace;
@@ -38,6 +43,11 @@
     --accent: #8fb2ff;
     --accent-soft: rgba(143, 178, 255, 0.1);
     --warm: #f0a24e;
+    --topic-il: #c4a5f0;
+    --topic-ds: #6fd1c8;
+    --topic-ml: #92b4ff;
+    --topic-mpc: #f2b26e;
+    --topic-opt: #f39ab6;
     color-scheme: dark;
   }
 }
@@ -445,11 +455,43 @@ a:hover {
 }
 
 .tags li {
+  --c: var(--accent);
   padding: 0.3rem 0.75rem;
   border-radius: 999px;
-  background: var(--accent-soft);
-  color: var(--accent);
+  background: color-mix(in srgb, var(--c) 9%, transparent);
+  color: var(--c);
   font-size: 0.85rem;
+}
+
+/* one quiet hue per research topic */
+.tags .t-il {
+  --c: var(--topic-il);
+}
+
+.tags .t-ds {
+  --c: var(--topic-ds);
+}
+
+.tags .t-ml {
+  --c: var(--topic-ml);
+}
+
+.tags .t-mpc {
+  --c: var(--topic-mpc);
+}
+
+.tags .t-opt {
+  --c: var(--topic-opt);
+}
+
+.tags--sm {
+  gap: 0.35rem;
+  margin-top: 0.7rem;
+}
+
+.tags--sm li {
+  padding: 0.12rem 0.55rem;
+  font-size: 0.74rem;
 }
 
 .prose .tags {
