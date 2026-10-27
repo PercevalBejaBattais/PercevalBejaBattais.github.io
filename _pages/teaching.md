@@ -13,7 +13,7 @@ nav_order: 3
     <div>
       <h3 class="entry-title"><a href="https://nvayatis.perso.math.cnrs.fr/ISLcourse.html">Introduction to Statistical Learning</a></h3>
       <p class="entry-sub">M.Sc. Mathématiques, Vision, Apprentissage (MVA)</p>
-      <div class="entry-foot"><span class="entry-label">Solutions:</span><a class="link" href="/files/isl_td1_solutions.pdf">TD1</a><span class="link link--soon">TD2</span><span class="link link--soon">TD3</span><span class="link link--soon">TD4</span></div>
+      <div class="entry-foot"><span class="entry-label">Solutions:</span><a class="link" href="/files/isl_td1_solutions.pdf">TD1</a><a class="link" href="/files/isl_td2_solutions.pdf">TD2</a><span class="link link--soon">TD3</span><span class="link link--soon">TD4</span></div>
     </div>
   </article>
   <article class="entry">
