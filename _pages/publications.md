@@ -13,6 +13,16 @@ nav_order: 2
     <article class="entry">
       <p class="entry-meta">2026</p>
       <div>
+        <h3 class="entry-title">Accelerating Nonlinear MPC by Behavior Cloning with Separated Timescales: Application to Nuclear Reactor Load-Following</h3>
+        <p class="entry-sub">with Alain Grossetête &amp; Nicolas Vayatis</p>
+        <p class="entry-desc">We study in more depth the robustness of SRLBC to distribution shift, and improve the framework using the safety-augmentation pipeline of Hose et al.</p>
+        <ul class="tags tags--sm" aria-label="Topics"><li class="t-il">Imitation Learning</li><li class="t-ml">Machine Learning</li><li class="t-mpc">Model Predictive Control</li></ul>
+        <div class="entry-foot"><span class="venue">Under Review</span><a class="link" href="https://hal.science/hal-05840963v1/document">PDF</a></div>
+      </div>
+    </article>
+    <article class="entry">
+      <p class="entry-meta">2026</p>
+      <div>
         <h3 class="entry-title">Structured Representation Learning for Behavior Cloning: How can we learn to safely control a nuclear power plant?</h3>
         <p class="entry-sub">with Alain Grossetête &amp; Nicolas Vayatis</p>
         <p class="entry-desc">Structuring the latent space by timescale makes behavior cloning of an NMPC expert for nuclear load-following more accurate and more often feasible — and, used to warm-start the NMPC, it recovers full feasibility while cutting computation time by 15%.</p>
