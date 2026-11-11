@@ -53,7 +53,7 @@ attractor_y: 0.43
         <h3 class="entry-title">Accelerating Nonlinear MPC by Behavior Cloning with Separated Timescales: Application to Nuclear Reactor Load-Following</h3>
         <p class="entry-desc">We study in more depth the robustness of SRLBC to distribution shift, and improve the framework using the safety-augmentation pipeline of Hose et al.</p>
         <ul class="tags tags--sm" aria-label="Topics"><li class="t-il">Imitation Learning</li><li class="t-ml">Machine Learning</li><li class="t-mpc">Model Predictive Control</li></ul>
-        <div class="entry-foot"><span class="venue">Under Review</span><a class="link" href="https://hal.science/hal-05840963v1/document">Paper</a></div>
+        <div class="entry-foot"><span class="venue">Under Review</span><a class="link" href="https://hal.science/hal-05840963v2/document">Paper</a></div>
       </div>
     </article>
     <article class="entry">
