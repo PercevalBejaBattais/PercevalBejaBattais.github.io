@@ -1,0 +1,10 @@
+{% if site.enable_goatcounter_analytics and site.goatcounter_analytics %}
+  <!-- GoatCounter: cookie-less analytics, no consent banner needed -->
+  <script
+    async
+    data-goatcounter="https://{{ site.goatcounter_analytics }}.goatcounter.com/count"
+    src="https://gc.zgo.at/count.v4.js"
+    integrity="sha384-nRw6qfbWyJha9LhsOtSb2YJDyZdKvvCFh0fJYlkquSFjUxp9FVNugbfy8q1jdxI+"
+    crossorigin="anonymous"
+  ></script>
+{% endif %}

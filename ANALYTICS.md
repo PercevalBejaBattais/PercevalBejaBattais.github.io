@@ -12,6 +12,7 @@ This guide helps you add website analytics to track visitor statistics and behav
   - [Privacy-Friendly Alternatives](#privacy-friendly-alternatives)
     - [Pirsch Analytics](#pirsch-analytics)
     - [Openpanel Analytics](#openpanel-analytics)
+    - [GoatCounter](#goatcounter)
   - [Monitoring &amp; Performance](#monitoring--performance)
     - [Cronitor](#cronitor)
   - [GDPR and Privacy Considerations](#gdpr-and-privacy-considerations)
@@ -34,6 +35,7 @@ Currently implemented in al-folio:
 - **Google Analytics** – Free, feature-rich, but collects user data
 - **Pirsch Analytics** – GDPR-compliant, free tier available, European servers
 - **Openpanel Analytics** – Open-source option, privacy-focused
+- **GoatCounter** – Free, open-source, cookie-less, private dashboard (visits + countries)
 - **Cronitor** – Uptime monitoring with Real User Monitoring (RUM) analytics
 
 ---
@@ -125,6 +127,31 @@ If you're concerned about user privacy or GDPR compliance, consider these altern
 
 ---
 
+### GoatCounter
+
+**Best for:** Simple, free visitor counts (pages, referrers, countries) visible only to you
+
+**Features:**
+
+- ✅ Free for personal/non-commercial use
+- ✅ Open-source
+- ✅ No cookies, no personal data stored (no consent banner needed)
+- ✅ Dashboard is private by default (login required)
+- ✅ Shows countries ("Locations"), browsers, screen sizes, referrers
+
+**Setup:**
+
+1. Sign up at [GoatCounter.com](https://www.goatcounter.com/signup) and choose a code (e.g. `mysite` → `https://mysite.goatcounter.com`)
+2. In `_config.yml`, set `goatcounter_analytics: mysite` (just the code, not the full URL)
+3. Make sure `enable_goatcounter_analytics: true`
+4. Commit and push
+
+**Keep the stats private:** in GoatCounter, go to **Settings** and leave **Allow public access to the dashboard** disabled (the default).
+
+**Exclude your own visits:** open `https://your-site/#toggle-goatcounter` once in each browser you use. It stores a flag in that browser so your visits are no longer counted. Local visits (`localhost`) are never counted.
+
+---
+
 ## Monitoring & Performance
 
 ### Cronitor
@@ -158,6 +185,7 @@ If you're in the European Union or serve EU visitors, consider GDPR requirements
 
 - ✅ Pirsch Analytics
 - ✅ Openpanel Analytics
+- ✅ GoatCounter
 
 ### Services requiring cookie consent
 
@@ -173,6 +201,7 @@ If you're in the European Union or serve EU visitors, consider GDPR requirements
 | **Google Analytics** | ✅           | ⚠️ Requires consent | Easy   | Detailed reports | Detailed tracking          |
 | **Pirsch**           | ✅ Free tier | ✅                  | Easy   | Balanced         | GDPR compliance            |
 | **Openpanel**        | ✅           | ✅                  | Medium | Modern dashboard | Privacy-focused developers |
+| **GoatCounter**      | ✅           | ✅                  | Easy   | Simple, private  | Minimal visitor stats      |
 | **Cronitor**         | Paid         | ⚠️ Requires consent | Easy   | Uptime + RUM     | Uptime monitoring          |
 
 ---
